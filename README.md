@@ -6,9 +6,9 @@
 
 ## List of Projects: 
 ------------------------------------
-- [EM_Learning](HW5_EM_Learning)
-- [Linear Models Brain Image](HW4_Linear_Models_Brain_Image)
-- [Decision Tree](HW2_Decision_Tree)
+- [EM_Learning](EM_Learning)
+- [Linear Models Brain Image](Linear_Models_Brain_Image)
+- [Decision Tree](Decision_Tree)
 
 
 ## Feedback, bugs, questions 
